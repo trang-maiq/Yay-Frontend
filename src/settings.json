@@ -1,0 +1,38 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Empower Your Tech Journey with Yay",
+  "subtitle": "Unleash Inspiration and Innovation Through Technical Insights"
+}
